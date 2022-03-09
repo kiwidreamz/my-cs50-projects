@@ -1,0 +1,31 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It took the least time to sort when the txt file was already sorted yet took very long with the random txt file (ten times longer!)
+
+Here are the real times for all three txt files with the sort 1
+sort 1 with random 5000 time = 0m0.129s
+sort 1 with reversed 5000 time = 0m0.093s
+sort 1 with sorted 5000 time = 0m0.010s
+
+
+
+sort2 uses: Merge Sort
+
+How do you know?: It always takes around the same time to sort all numbers out since its big O and Omega values are the same, furthermore it took significantly less than both the other sorts for the random txt file
+
+Here are the real times for all three txt files with the sort 2
+sort 2 with random 5000 time = 0m0.012s
+sort 2 with reversed 5000 time = 0m0.014s
+sort 2 with sorted 5000 time = 0m0.012s
+
+
+
+sort3 uses: Selection Sort
+
+How do you know?: It took the most time when already sorted since it had to search through every other value for each position in the array, which makes sense since selection's Omega is n squared.
+Furthermore the best and worst case scenario are quite close to each other
+
+Here are the real times for all three txt files with the sort 3
+sort 3 with random 5000 time = 0m0.036s
+sort 3 with reversed 5000 time = 0m0.081s
+sort 3 with sorted 5000 time = 0m0.040s
