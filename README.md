@@ -4,4 +4,4 @@ I created this repo to keep copies of all my the projects I made while taking CS
 
 CS50 is Harvard University's Introduction to Computer Science.
 
-This includes lab exercices and problem sets.
+This includes both lab exercices and problem sets.
