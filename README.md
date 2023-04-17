@@ -1,6 +1,6 @@
 # My CS50 Projects
 
-I created this repo to keep copies of all my the projects I made while taking CS50.
+I created this repo to keep copies of all my projects I made while taking CS50.
 
 CS50 is Harvard University's Introduction to Computer Science.
 
